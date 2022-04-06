@@ -1,6 +1,12 @@
 # flutter_credit_card_ui
 
-A new Flutter project.
+## Front Side
+
+![Screenshot_1649250372](https://user-images.githubusercontent.com/71002261/161986976-4ddcb8d6-e238-4380-b407-c035641b3157.png)
+
+## Back Side
+
+![Screenshot_1649250379](https://user-images.githubusercontent.com/71002261/161987014-e935ce93-7a23-4741-9120-fcb47433cee4.png)
 
 ## Getting Started
 
