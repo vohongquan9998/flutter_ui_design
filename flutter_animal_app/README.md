@@ -1,6 +1,11 @@
 # flutter_animal_app
 
-A new Flutter project.
+![Screenshot_1649249801](https://user-images.githubusercontent.com/71002261/161989035-ab505204-ed1a-4b1c-be84-9cac5a40a7c3.png)
+![Screenshot_1649249867](https://user-images.githubusercontent.com/71002261/161989243-9673ccee-b420-4d47-941f-e72f7c203bbf.png)
+![Screenshot_1649249894](https://user-images.githubusercontent.com/71002261/161989340-7df085ca-a548-4194-bb24-2d3112825c2d.png)
+
+
+
 
 ## Getting Started
 
