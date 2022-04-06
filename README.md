@@ -1,1 +1,1 @@
-## Choose another branch to go to different projects
+## Choose another branches to go to different projects
