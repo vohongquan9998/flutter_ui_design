@@ -1,6 +1,7 @@
 # flutter_storybook
 
-A new Flutter project.
+![Screenshot_1649251463](https://user-images.githubusercontent.com/71002261/162150273-82d6c398-2a9c-448b-9db5-e162e5fe2299.png)
+
 
 ## Getting Started
 
